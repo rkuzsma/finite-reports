@@ -1,5 +1,5 @@
 # Finite-Reports
-Slick reporting capabilities for the FiniteJS integration test library.
+Slick reporting capabilities for the [FiniteJS](https://github.com/rkuzsma/finite) integration test library.
 
 ## Getting Started
 
