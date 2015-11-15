@@ -6,7 +6,7 @@ Slick reporting capabilities for the [FiniteJS](https://github.com/rkuzsma/finit
 `npm install --save-dev finite-reports`
 
 example.html
-```
+```html
 <html>
   <script language="javascript" src="require.js">
   <script language="javascript" src="finite.js">
